@@ -1,5 +1,13 @@
 # Waypoint: kl-hub
 
+## 2026-11-12 (later in the session): Brandon Joe card turned live
+
+Once `brandon_joe/` (the CKC 3.0 project) was built out and published to
+GitHub Pages, its placeholder tile here was converted to a live `post-card`
+link pointing at <https://dogthathunts.github.io/brandon_joe/>, matching the
+other live tiles' pattern exactly (`is-live` tag, `<a>` wrapper instead of a
+plain `<div>`).
+
 ## What was done (2026-11-12 session)
 
 - Created this new, dedicated public repo and GitHub Pages site as a
